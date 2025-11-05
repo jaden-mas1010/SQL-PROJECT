@@ -21,3 +21,4 @@ This project analyzes employee device information and login activity using SQL. 
 - Window functions (`OVER(PARTITION BY...)`)
 - Anomaly detection
 - Query optimization and readability
+This is designed as a **portfolio project** to demonstrate SQL and data analysis skills to recruiters.
