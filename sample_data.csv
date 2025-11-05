@@ -1,0 +1,27 @@
+
+# machines table
+device_id,operating_system,email_client,OS_patch_date,employee_id
+a184b775c707,OS 1,Email Client 1,2021-09-01,1156
+a192b174c940,OS 2,Email Client 1,2021-06-01,1052
+a305b818c708,OS 3,Email Client 2,2021-06-01,1182
+a317b635c465,OS 1,Email Client 2,2021-03-01,1130
+a320b137c219,OS 2,Email Client 2,2021-03-01,1000
+a331b935c901,OS 3,Email Client 3,2020-12-15,1175
+a345c157c402,OS 1,Email Client 1,2022-01-20,1142
+a356c472c508,OS 2,Email Client 3,2022-03-12,1052
+a367d189c609,OS 3,Email Client 2,2021-11-05,1182
+
+# log_in_attempts table
+event_id,username,login_date,login_time,country,status,employee_id
+1,sbaelish,2022-05-10,09:15:23,USA,Success,1156
+2,ivelasco,2022-05-08,08:45:10,Canada,Success,1052
+3,daquino,2022-05-08,10:05:32,Mexico,Failed,1182
+4,mabadi,2022-05-10,12:25:50,USA,Success,1130
+5,jrafael,2022-05-09,19:35:11,Canada,Failed,1000
+6,dkot,2022-05-11,07:45:02,USA,Failed,1175
+7,apatel,2022-05-10,22:10:15,Mexico,Failed,1142
+8,mrah,2022-05-08,16:45:33,USA,Success,1052
+9,wjaffrey,2022-05-07,00:15:55,Canada,Success,1182
+10,gesparza,2022-05-07,00:40:00,USA,Failed,1130
+11,bsand,2022-05-07,00:19:11,USA,Success,1000
+12,pwashing,2022-05-08,00:36:12,Canada,Success,1175
